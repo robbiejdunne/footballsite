@@ -3,10 +3,14 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, I'm Robbie.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I am a Data Scientist from Ireland, who is currently living in Madrid, Spain. I am well-versed in both R and Python and I also have experience with SQL and other.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+My main area of interested is data visualisation - I primarliy use R's ggplot and Python's Matplolib but I also have experience with Tableau and Shiny. 
+
+I am also comfortable with everything on the front 
+Hang Dai!
+

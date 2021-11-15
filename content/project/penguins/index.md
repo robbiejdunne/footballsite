@@ -1,16 +1,11 @@
 ---
-author: Eric Anderson
+author: Robbie Dunne
 categories:
-- Theme Features
-- R
-- package
 date: "2019-07-02"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: An exploration of Bon Iver's music using spotifyR and geniusR.
 featured: true
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -27,7 +22,7 @@ links:
 subtitle: ""
 tags:
 - hugo-site
-title: Palmer Penguins
+title: An exploration of Bon Iver's music
 ---
 
 ### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
