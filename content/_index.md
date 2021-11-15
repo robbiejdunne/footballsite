@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a sports writer and Data Science student from Ireland. I have a particular interest in the intersection between sports and data analysis. The majority of my work is carried out using Python and R but I am also comfortable in a range of different platforms and languages.
+description: I am a sports writer and Data Science student from Ireland. I have a particular interest in the intersection between sports and data analysis. The majority of my work is carried out using Python and R but I am also comfortable in a range of different platforms and languages. If you have any questions, want to chat about one of my posts or need help getting started, you can find me over on Twitter.
 
 image_left: false
 images:
