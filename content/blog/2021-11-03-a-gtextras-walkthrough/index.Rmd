@@ -1,0 +1,17 @@
+---
+title: A gtExtras walkthrough
+author: Robbie Dunne
+date: '2021-11-03'
+slug: []
+categories:
+  - R
+  - gtExtras
+  - Data Visualisation
+tags: []
+subtitle: ''
+excerpt: ''
+series: ~
+layout: single
+---
+
+### It's exhausting
